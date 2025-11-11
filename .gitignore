@@ -1,0 +1,10 @@
+medusa-store/node_modules/
+medusa-store/.env
+medusa-store/.env.template
+medusa-store/.env.test
+medusa-store/dist/
+
+
+medusa-store-storefront/node_modules/
+medusa-store-storefront/.env.local
+medusa-store-storefront/.next/

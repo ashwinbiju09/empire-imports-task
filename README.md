@@ -41,5 +41,7 @@ Animations and transitions were deliberately kept minimal based on e-commerce UX
 ## Demonstration & Documentation
 
 **Before / After Comparison Video:** [https://youtu.be/8Wj_tgGJds4]
+
 **Design Documentation:** [https://docs.google.com/document/d/1EMhnPytbg-tSWAiTFOQFzEOkNpOcOjdPyaPDtIKGmCI/edit?usp=sharing] 
+
 **Figma Design File:** [https://www.figma.com/design/S7aBzoUznl5W0hrMAxMlqt/Medusa-Store?node-id=0-1&t=tCeTnJVyJzrFtiTV-1]
